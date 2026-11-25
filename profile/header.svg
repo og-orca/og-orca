@@ -22,5 +22,5 @@
   <circle cx="730" cy="50" r="2.25" fill="var(--accent)"/>
   <circle cx="357" cy="125" r="2.25" fill="var(--accent)"/>
   <text x="34" y="83" fill="var(--ink)" font-family="Avenir Next, Segoe UI, system-ui, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.8">Orca</text>
-  <text x="36" y="116" fill="var(--muted)" font-family="Avenir Next, Segoe UI, system-ui, sans-serif" font-size="22" font-weight="500">@kaventro</text>
+  <text x="36" y="116" fill="var(--muted)" font-family="Avenir Next, Segoe UI, system-ui, sans-serif" font-size="22" font-weight="500">@og-orca</text>
 </svg>
